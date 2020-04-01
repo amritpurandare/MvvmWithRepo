@@ -1,3 +1,3 @@
-package com.amrit.mvvmwithrepository
+package com.amrit.mvvmwithrepository.model
 
 data class Post(val userId: Int, val id: Int, val title: String, val body: String)

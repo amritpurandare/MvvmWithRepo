@@ -1,6 +1,6 @@
-package com.amrit.mvvmwithrepository
+package com.amrit.mvvmwithrepository.network
 
-import androidx.lifecycle.LiveData
+import com.amrit.mvvmwithrepository.model.Post
 import retrofit2.Call
 import retrofit2.http.GET
 

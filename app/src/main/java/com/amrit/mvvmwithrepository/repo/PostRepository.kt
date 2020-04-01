@@ -1,7 +1,10 @@
-package com.amrit.mvvmwithrepository
+package com.amrit.mvvmwithrepository.repo
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
+import com.amrit.mvvmwithrepository.model.Post
+import com.amrit.mvvmwithrepository.network.PostApi
+import com.amrit.mvvmwithrepository.network.RetrofitService
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

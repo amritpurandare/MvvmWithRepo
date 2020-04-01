@@ -1,10 +1,12 @@
-package com.amrit.mvvmwithrepository
+package com.amrit.mvvmwithrepository.view
 
 import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
+import com.amrit.mvvmwithrepository.viewmodel.PostsViewModel
+import com.amrit.mvvmwithrepository.R
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,4 +1,4 @@
-package com.amrit.mvvmwithrepository
+package com.amrit.mvvmwithrepository.network
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
